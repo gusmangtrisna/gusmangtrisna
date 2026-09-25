@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=2200&pause=1000&color=E5E7EB&center=true&vCenter=true&width=1000&height=100&lines=%24+whoami;Gusmang+Trisna;%24+cat+role.txt;Quality+Assurance+Enthusiast;%24+cat+philosophy.txt;Think+like+a+dev%2C+feel+like+a+user.;%24+.%2Fstatus.sh;Open+to+learn" alt="Terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=2200&pause=1000&color=E5E7EB&center=true&vCenter=true&width=1000&height=100&lines=%24+whoami;Gusmang+Trisna;%24+cat+role.txt;Quality+Assurance+Enthusiast;%24+cat+philosophy.txt;Think+like+a+dev%2C+feel+like+a+user.;" alt="Terminal" />
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <br>
 
-## 📖 About Me
+<h3>👨‍💻 About Me</h3>
 
 > "Think like a developer, feel like a user."
 
@@ -31,9 +31,14 @@ Right now, I'm sharpening my skills in **Manual Testing & SQA**, while also lear
 
 <br>
 
-## 🛠️ Tech Stack & Tools
+---
+
+<br>
 
 <div align="center">
+
+<h3>🛠️ Tech Stack & Tools</h3>
+
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -46,6 +51,10 @@ Right now, I'm sharpening my skills in **Manual Testing & SQA**, while also lear
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+<br>
+
+---
 
 <br>
 
