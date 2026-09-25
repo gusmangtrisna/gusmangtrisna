@@ -1,42 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:818CF8&height=180&section=header&text=Gusmang%20Trisna&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Quality%20Assurance&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=2200&pause=1000&color=E5E7EB&center=true&vCenter=true&width=1000&height=100&lines=%24+whoami;Gusmang+Trisna;%24+cat+role.txt;Quality+Assurance+Enthusiast;%24+cat+philosophy.txt;Think+like+a+dev%2C+feel+like+a+user.;%24+.%2Fstatus.sh;Open+to+learn" alt="Terminal" />
+
+</div>
+
+---
 
 <br>
 
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Think+like+a+developer%2C+feel+like+a+user.;Politeknik+Negeri+Bali+Student;Interested+in+Manual+%26+SQA+Testing;Currently+learning+Ruby+on+Rails" alt="Typing SVG" />
-</a>
+<div align="center">
 
-<br><br>
+![Profile Views](https://komarev.com/ghpvc/?username=gusmangtrisna&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20LEARN-4CAF50?style=for-the-badge)
 
-🎓 Student at **Politeknik Negeri Bali**
-&nbsp;•&nbsp;
-🔍 Interested in **Manual Testing & SQA**
-&nbsp;•&nbsp;
-🚂 Currently learning **Ruby on Rails**
+</div>
 
 <br>
+
+## 📖 About Me
+
+> "Think like a developer, feel like a user."
+
+Hello! I'm Gusmang Trisna, a student at **Politeknik Negeri Bali** with a growing interest in **Quality Assurance**. I believe a good QA needs to understand how something is built as much as how it feels to use — that's why I try to learn both sides: writing code and testing it critically.
+
+Right now, I'm sharpening my skills in **Manual Testing & SQA**, while also learning **Ruby on Rails** to better understand the developer's side of the process.
+
+- 🔍 **Primary Focus:** Manual Testing & Software Quality Assurance
+- 🌐 **Web Ecosystem:** PHP, Laravel, Python, TailwindCSS
+- 🚂 **Currently Learning:** Ruby on Rails
+
+<br>
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusmangtrisna&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-<br>
+**Got a project in mind or want to know more about me? Let's connect:**
 
-![Snake animation](https://raw.githubusercontent.com/gusmangtrisna/gusmangtrisna/output/github-contribution-grid-snake.svg)
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:818CF8,100:38BDF8&height=100&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ida-bagus-komang-trisna-widyatmika)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gusmangtrsna)
 
 </div>
