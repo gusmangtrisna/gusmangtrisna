@@ -15,8 +15,6 @@
 
 </div>
 
-<br>
-
 <h3>👨‍💻 About Me</h3>
 
 > "Think like a developer, feel like a user."
@@ -29,11 +27,9 @@ Right now, I'm sharpening my skills in **Manual Testing & SQA**, while also lear
 - 🌐 **Web Ecosystem:** PHP, Laravel, Python, TailwindCSS
 - 🚂 **Currently Learning:** Ruby on Rails
 
-<br>
 
 ---
 
-<br>
 
 <div align="center">
 
@@ -52,11 +48,8 @@ Right now, I'm sharpening my skills in **Manual Testing & SQA**, while also lear
 
 </div>
 
-<br>
-
 ---
 
-<br>
 
 <div align="center">
 
